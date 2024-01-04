@@ -3,3 +3,6 @@
 puts "Hello world"
 
 print "Goce"
+
+# not a command
+pluts "steve"
