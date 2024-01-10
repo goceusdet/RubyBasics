@@ -1,0 +1,2 @@
+There was an ERROR -> undefined method `/' for "10 + nil":String at 2024-01-10 11:43:31 -0500
+There was an ERROR -> nil can't be coerced into Integer at 2024-01-10 11:44:07 -0500
